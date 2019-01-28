@@ -1,0 +1,1 @@
+# yealink-i18n
