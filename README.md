@@ -1,12 +1,19 @@
-Need to install MongoDB
 
 
-Development environment
-npm run dev
+*Need to install MongoDB*
 
-Production Environment
-npm run start
+### Development environment
 
-Generate document
-cnpm install apidoc -g
+`npm run dev` 
+
+
+### Production Environment
+
+`npm run start` 
+
+
+### Generate document
+
+`cnpm install apidoc -g` 
+
 
